@@ -1,0 +1,20 @@
+## Tech Stack
+
+- DWSIM
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+## Key Results
+
+The predictive model achieved:
+
+- R²: 0.9441
+- MAE: 0.3896
+- RMSE: 0.8280
+
+Feature analysis indicated that Reboiler_Spec was the dominant input
+feature in the developed model.
